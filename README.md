@@ -1,6 +1,8 @@
 # :chess_pawn: Python-Chess :chess_pawn:
-This Project of a chess game in python,
-This code maybe have some issues/bugs and some diferent stuffs, but it is work well!'-'
+This Project of a chess game in python. <br />
+This code maybe have some issues/bugs and some diferent stuffs, but it is work well !'-'<br />
+In this code I mixed two different languages, in the comments and in the variable names.<br />
+This is my first programming project, that's why the code is so messy.<br />
 
 ## :trophy: Here is the Main Page! :trophy:
 <div align="center">
