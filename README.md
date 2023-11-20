@@ -13,10 +13,7 @@ This code maybe have some issues/bugs and some diferent stuffs, but it is work w
 </div>
 
 ## :video_game: The Gameplay!! :video_game:
-<div align="center">
-<video width="320" height="240" controls>
-  <source src="https://github.com/KamiNoKod0mo/python-chess/assets/149252909/1689aea5-6158-426c-94ba-9a7475140f0c">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
+<div align="center" width="20px">
+[Screencast from 19-11-2023 23:44:19.webm](https://github.com/KamiNoKod0mo/python-chess/assets/149252909/1689aea5-6158-426c-94ba-9a7475140f0c)
 </div>
 
