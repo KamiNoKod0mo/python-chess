@@ -29,7 +29,8 @@ def main_menu():
                 #posicao_mouse = (posicao_mouse[0],posicao_mouse[1])
                 if button_rect.collidepoint(posicao_mouse):
                     running = False
-                if pb_rect.collidepoint(posicao_mouse):
+                #In the future
+                """ if pb_rect.collidepoint(posicao_mouse):
                     menu(screen,confs)
                     pygame.draw.circle(screen,(255,0,0),(557,470),10)
                     pygame.display.update()
@@ -38,14 +39,14 @@ def main_menu():
                     menu(screen,confs)
                     pygame.draw.circle(screen,(255,0,0),(440,470),10)
                     pygame.display.update()
-                    select_color = 0
+                    select_color = 0 """
     return 1
 
 
 def menu(screen,confs):
     screen.blit(confs.bg,(0,0))# tela de fundo
-    ###
-    pw = pygame.image.load("/home/carlos_/Desktop/Projects/Python/Games/xadrez/imagens/pawnW.png")
+    ###In the future
+    """ pw = pygame.image.load("/home/carlos_/Desktop/Projects/Python/Games/xadrez/imagens/pawnW.png")
     pw = pygame.transform.scale(pw,(60,60))
     global pw_rect
     pw_rect = pygame.Rect(410,400,60,60)
@@ -55,7 +56,7 @@ def menu(screen,confs):
     pb = pygame.transform.scale(pb,(60,60))
     global pb_rect
     pb_rect = pygame.Rect(525,400,60,60)
-    screen.blit(pb,(525,400))
+    screen.blit(pb,(525,400)) """
     ###
     # Butão de play
     global button_rect
